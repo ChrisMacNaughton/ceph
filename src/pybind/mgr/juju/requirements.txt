@@ -1,0 +1,3 @@
+tox==2.9.1
+# zaza ?
+git+https://github.com/openstack-charmers/zaza#egg=zaza
